@@ -1,16 +1,7 @@
-# chat_app
+![01 (3)](https://github.com/user-attachments/assets/35fed92b-dc95-4c71-b4e6-ed4b9f3158a4)
+![02chat](https://github.com/user-attachments/assets/5cc0249f-1aaa-4a8a-bbd9-9721ef460351)
+![03chat](https://github.com/user-attachments/assets/d73423a2-bfec-436e-aea5-aada53f0a2bc)
+![05chat](https://github.com/user-attachments/assets/efa8e445-d0a5-48f8-a195-e220def28256)
+![06chat](https://github.com/user-attachments/assets/b45aadac-3e43-4d28-8cb4-fcb8814c545b)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![07chatpage](https://github.com/user-attachments/assets/11d0385d-665c-4eec-8590-6b1697cfc246)
